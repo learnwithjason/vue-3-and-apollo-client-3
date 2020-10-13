@@ -12,7 +12,6 @@
 <p align="center">
   But don’t worry! You can still: 
   <a href="https://www.learnwithjason.dev/build-apps-with-vue-3-apollo-client-3"><strong>watch the video</strong></a> · 
-  <a href="https://demo name.netlify.app"><strong>see the demo</strong></a> · 
   <a href="https://app.netlify.com/start/deploy?repository=https://github.com/learnwithjason/vue-3-and-apollo-client-3&utm_source=learnwithjason&utm_medium=github&utm_campaign=devex"><strong>deploy this project</strong></a> · 
   <a href="https://jason.af/lwj/schedule"><strong>see upcoming episodes</strong></a>
 </p>
